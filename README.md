@@ -1,3 +1,3 @@
 # 20173007_lsa_androidApp
-  <img src="./png/강아지.jpg"></img>
+  <img width= height= src="./png/강아지.jpg"></img>
   
