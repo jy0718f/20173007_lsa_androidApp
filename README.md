@@ -16,7 +16,7 @@
 <img width="" height="" src="./png/캡처2.PNG"></img>
 
 # 6주차
-이미지 바꾸기 
+이미지 바꾸기<br></br>
 <img width="" height="" src="./png/6주차.PNG"></img> <img width="" height="" src="./png/6주차1.PNG"></img>
 첫번째 이미지 넓이, 높이 
 <img width="" height="" src="./png/6주차4.PNG"></img> <img width="" height="" src="./png/6주차5.PNG"></img>
