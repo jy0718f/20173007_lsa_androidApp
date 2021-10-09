@@ -15,4 +15,6 @@
 <img width="" height="" src="./png/캡처.PNG"></img>
 <img width="" height="" src="./png/캡처2.PNG"></img>
 
+# 6주차
+<img width="" height="" src="./png/6주차.PNG"></img> <img width="" height="" src="./png/6주차1.PNG"></img>
 
